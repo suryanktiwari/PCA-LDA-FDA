@@ -1,5 +1,5 @@
 # PCA LDA FDA
- This repository contains python implementation of PCA, LDA and FDA from scratch on MNIST dataset
+ This repository contains python implementation of PCA, LDA and FDA from scratch on MNIST dataset. Noise removal effect of PCA is also depicted visually.
 
 ### Dataset used:
 MNIST
